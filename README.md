@@ -49,7 +49,7 @@
             <td>SSLC</td>
             <td>Siddartha School</td>
             <td>KSEEB</td>
-            <td>63</td>
+            <td>63.36%</td>
         </tr>
         <tr>
             <td>Diploma</td>
